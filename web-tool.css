@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.navbar-img{
+    height: 35px;
+    width: 120px;
+}
+.icon-color {
+    background-color: white;
+}
+.navbar-background-bar{
+    background-color: #0C0521;
+}
+#navItem1{
+    font-family: roboto;
+    color: white;
+}
+#navItem2{
+    font-family: roboto;
+    color: white;
+}
+#navItem3{
+    font-family: roboto;
+    color: white;
+}
+#navItem4{
+    font-family: roboto;
+    color: white;
+}
+#navItem5{
+    font-family: roboto;
+    color: white;
+}
+.banner-section{
+    background-image: url(https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png);
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+
+}
+.banner-title{
+    font-size: 34px;
+    font-family: roboto;
+    color: white;
+    font-weight: bold;
+   
+}
+.highlight{
+    color: #FFDDA9;
+}
+.banner-para{
+    font-size: 18px;
+    font-family: roboto;
+    color: #ffffff;
+}
+.banner-button{
+    background-color: #FFDDA9;
+    border-radius: 20px;
+    height: 45px;
+    width: 140px;
+    color: black;
+    font-weight: bold;
+}
+
+/* USED SECION */
+
+.logo-section{
+    background-color: #f9fbfe;
+    padding: 15px;
+}
+.logo-head{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #5f4216;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    font-weight: bold;
+}
+
+/* FEATURES SECTION */
+
+.design-section{
+    background-color: cyan;
+}
+.design-head{
+    font-size: 24px;
+    font-family: roboto;
+    font-weight: 500;
+    color: #323f4b;
+    padding-top: 16px;
+}
+.design-para{
+    color: #7b8794;
+    font-size: 15px;
+    font-family: roboto;
+}
+.head{
+    font-size: 30px;
+    font-family: roboto;
+    font-weight: bold;
+    color: #1377d4;
+    padding-left: 16px;
+    padding-bottom: 16px;
+}
+
+/* TOOLS SECTION */
+
+.tools-section{
+    background-color: #ffffff;
+}
+.tool-head{
+    font-size: 20px;
+    font-family: roboto;
+    color: #323f4b;
+    margin-top: 25px;
+    font-weight: 700;
+}
+.tool-para{
+    font-size: 16px;
+    font-family: roboto;
+    color: #7b8794;
+    padding-top: 14px;
+}
+
+/* FEATURES SECTION */
+
+.features-section{
+    background-color: #ffffff;
+}
+
+.features-title{
+    font-size: 26px;
+    font-family: roboto;
+    font-weight: bold;
+    color: #1377d4;
+
+}
+.features-para{
+    font-size: 14px;
+    color: #9aa5b1;
+    font-family: roboto;
+    padding-top: 10px;
+
+}
+.features-head{
+    font-size: 18px;
+    color: #323f4b;
+    font-family: roboto;
+    padding-top: 10px;
+}
+.description{
+    font-size: 12px;
+    font-family: roboto;
+    color: #7b8794;
+    padding-top: 10px;
+}
+
+/* CONTACT SECTION */
+
+.footer-section{
+    background-color: cyan;
+}
+.footer-img{
+    text-align: center;
+}
+.footer-icon{
+    background-color: #050505;
+    color: #ffffff;
+    font-size: 24px;
+    height: 60px;
+    width: 58px;
+    border-radius: 40px;
+    text-align: center;
+    padding-top: 16px;
+    margin: 5px;
+}
+.footer-head{
+    font-size: 18px;
+    font-family: roboto;
+    color: #5a7184;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: 500;
+
+}
+.footer-title{
+    font-size: 22px;
+    font-family: roboto;
+    font-weight: bold;
+    color: #5a7184;
+    padding-bottom: 15px;
+}
+.footer-para{
+    color: #5a7184;
+    font-family: roboto;
+    font-size: 18px;
+}
+.highlight{
+    background-color: #5a7184;
+}
+.copyright-icon{
+    color: #5a7184;
+    font-size: 22px;
+    padding-top: 15px;    
+}
+.contact-head{
+    font-size: 30px;
+    font-family: roboto;
+    font-weight: bold;
+    color: #1377d4;
+    padding-left: 16px;
+    padding-bottom: 16px;
+}
